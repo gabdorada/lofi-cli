@@ -1,0 +1,2 @@
+# lofi-cli
+Projeto simples.
