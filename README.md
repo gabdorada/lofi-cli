@@ -36,8 +36,7 @@ python main.py
 ---
 
 ## documentação
-
-planejamento completo e decisões técnicas no [notion](https://www.notion.so/lofi-cli-docs-32a6822fab858074b33adb8fac63c83b?source=copy_link)
+diário de bordo [bastidores e aprendizados](https://www.notion.so/lofi-cli-docs-32a6822fab858074b33adb8fac63c83b?source=copy_link)
 
 ---
 
