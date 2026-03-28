@@ -1,18 +1,18 @@
 # lofi-cli 🎧
 
-> estação de áudio minimalista para terminal.
+> a minimalist audio station for your terminal.
 
-desenvolvido como projeto prático para o curso de **systems analysis and development (pucpr)** — foco em automação via shell script e gerenciamento de áudio em python.
+developed as a practical project (ads @ pucpr). focused on automation, clarity, and command-line tools.
 
 ---
 
 ## stack
 
-`python` `shell script` `mpv` `pygame` `git`
+`python` `rich` `mpv` `shell script`
 
 ---
 
-## instalação
+### quick start
 ```bash
 git clone https://github.com/gabdorada/lofi-cli.git
 cd lofi-cli
@@ -26,18 +26,18 @@ python main.py
 
 ---
 
-## roadmap
+### roadmap
 
-- [x] estrutura do projeto e README
-- [ ] motor de áudio (python + mpv)
-- [ ] sistema de gestão de arquivos
-- [ ] timer de foco (pomodoro)
-
----
-
-## documentação
-diário de bordo [bastidores e aprendizados](https://www.notion.so/lofi-cli-docs-32a6822fab858074b33adb8fac63c83b?source=copy_link)
+- [x] project structure & docs
+- [ ] ui integration (rich)
+- [ ] audio engine (mpv)
+- [ ] focus timer (pomodoro)
 
 ---
 
-<sub>♪ feito com foco em simplicidade por [@gabdorada](https://github.com/gabdorada)</sub>
+### logs & decisions
+track the development process, technical decisions, and lessons learned on [notion](https://www.notion.so/lofi-cli-docs-32a6822fab858074b33adb8fac63c83b?source=copy_link).
+
+---
+
+<sub>♪ made by @gabdorada</sub>
