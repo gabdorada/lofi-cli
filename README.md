@@ -10,8 +10,13 @@ Escolha seu mood, foque e relaxe.
 
 ## Decisões técnicas
 
-### Player de áudio: pygame
-Consideramos usar `yt-dlp + mpv` para streaming do YouTube direto
-no terminal, porém o `mpv` requer Xcode 15 para compilação, 
-incompatível com macOS 12. Optamos pelo `pygame` para manter 
-a solução simples e funcional.
+### 🎵 Player de áudio: pygame
+
+**Opção considerada:** `yt-dlp + mpv` — streaming direto do YouTube 
+no terminal, sem abrir navegador.
+
+**Problema:** `mpv` requer Xcode 15 para compilação, incompatível 
+com macOS 12 que não recebe mais atualizações.
+
+**Decisão:** usar `pygame` com arquivos `.mp3` locais — simples, 
+funcional e sem dependências externas problemáticas.
