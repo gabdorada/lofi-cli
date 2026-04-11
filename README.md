@@ -12,13 +12,13 @@ Um projeto simples para rodar música lofi direto no terminal. Criado para prati
 Optei por usar pygame para garantir que o áudio funcione sem depender de ferramentas externas complexas (como o mpv), focando em uma instalação pip install direta e simples.
 
 ### Roadmap
-[x] UI Design (ASCII Art)
+- [x] UI Design (ASCII Art)
 
-[ ] Pygame Audio Engine
+- [ ] Pygame Audio Engine
 
-[ ] Pomodoro Timer
+- [ ] Pomodoro Timer
 
-[ ] Mood Selection
+- [ ] Mood Selection
 
 ---
 ### Track my progress
