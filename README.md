@@ -1,22 +1,25 @@
-# 🎵 lofi-station CLI
+# lofi-station CLI
 
-Uma estação de música lofi no terminal.
-Escolha seu mood, foque e relaxe.
+```text
+            /\_/\   ♫
+           ( -.- )         ♫
+            > ^ <  l o f i  s t a t i o n
+```
+### Overview
+Um projeto simples para rodar música lofi direto no terminal. Criado para praticar lógica em Python e interfaces CLI enquanto foco nos estudos.
 
-## Funcionalidades
-- Seleção de mood (Focus / Chill)
-- Interface bonita com Rich
-- Timer Pomodoro integrado
+### Dev Log & Learning
+Optei por usar pygame para garantir que o áudio funcione sem depender de ferramentas externas complexas (como o mpv), focando em uma instalação pip install direta e simples.
 
-## Decisões técnicas
+### Roadmap
+[x] UI Design (ASCII Art)
 
-### 🎵 Player de áudio: pygame
+[ ] Pygame Audio Engine
 
-**Opção considerada:** `yt-dlp + mpv` — streaming direto do YouTube 
-no terminal, sem abrir navegador.
+[ ] Pomodoro Timer
 
-**Problema:** `mpv` requer Xcode 15 para compilação, incompatível 
-com macOS 12 que não recebe mais atualizações.
+[ ] Mood Selection
 
-**Decisão:** usar `pygame` com arquivos `.mp3` locais — simples, 
-funcional e sem dependências externas problemáticas.
+---
+### Track my progress
+Acompanhe minhas anotações de estudo e a evolução do código aqui:[[lofi-cli](https://www.notion.so/lofi-cli-33e6822fab85805dbb0dc193295d515a?source=copy_link)]
