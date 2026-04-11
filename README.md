@@ -22,4 +22,4 @@ Optei por usar pygame para garantir que o áudio funcione sem depender de ferram
 
 ---
 ### Track my progress
-Acompanhe minhas anotações de estudo e a evolução do código aqui:[[lofi-cli](https://www.notion.so/lofi-cli-33e6822fab85805dbb0dc193295d515a?source=copy_link)]
+Acompanhe minhas anotações de estudo e a evolução do código aqui: [[lofi-cli](https://www.notion.so/lofi-cli-33e6822fab85805dbb0dc193295d515a?source=copy_link)]
